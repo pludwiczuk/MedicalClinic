@@ -1,0 +1,3 @@
+CREATE USER Clinic IDENTIFIED BY MedicalClinicPass;
+
+GRANT ALL PRIVILEGES TO Clinic;
