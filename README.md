@@ -32,3 +32,21 @@ Istnieje 5 typów użytkowników wyszczególnionych w poniższych diagramach prz
 ## Uruchamianie ##
 
 Do uruchomienia systemu potrzebna jest baza Oracle 11g. Skrypty do tworzenia urzytkowników i tabel bazy znajdują się w katalogu [docs/sql_scripts](./docs/sql_scripts)
+
+## Przykładowe zrzuty ekranu uruchomionego programu: ##
+
+![Screen1](./docs/screenshots/AdminZarzadanie.jpg)
+
+![Screen2](./docs/screenshots/LekarzObKarta.jpg)
+
+![Screen3](./docs/screenshots/LekarzObReceptyv2.jpg)
+
+![Screen4](./docs/screenshots/LekarzObSkierowania.jpg)
+
+![Screen5](./docs/screenshots/LekarzHarmonogram.jpg)
+
+![Screen6](./docs/screenshots/LekarzWizyty.jpg)
+
+![Screen7](./docs/screenshots/PielegniarkaZabiegi.jpg)
+
+![Screen8](./docs/screenshots/RecepcLekarze.jpg)
